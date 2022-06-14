@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Properties file
+api.properties
+
 # Log file
 *.log
 
